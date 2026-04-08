@@ -2,7 +2,7 @@
 <h3 align="center">Full Stack Developer | Data Analyst | Problem Solver</h3>
 
 
-# 💫 About Me:
+
 ## 🚀 About Me<br>- 💻 Full Stack Developer with a focus on building scalable web applications<br>- 📊 Data Analyst skilled in extracting insights from data<br>- 🧠 Strong foundation in Data Structures and Problem Solving<br>- 🚀 Passionate about creating impactful and efficient solutions<br>
 
 
