@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Reetik Singh</h1>
-<h3 align="center">Full Stack Developer | Data Analyst | Problem Solver</h3>
+<h3 align="center">Full Stack Developer | Data Analyst | Problem Solver</h3><br>
 
 
 
