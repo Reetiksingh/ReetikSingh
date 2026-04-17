@@ -3,7 +3,7 @@
 
 
 
-## 🚀 About Me<br>- 💻 Full Stack Developer with a focus on building scalable web applications<br>- 📊 Data Analyst skilled in extracting insights from data<br>- 🧠 Strong foundation in Data Structures and Problem Solving<br>- 🚀 Passionate about creating impactful and efficient solutions<br>
+## 🚀 About Me<br>- 💻 Full Stack Developer with a focus on building scalable web applications<br>- 🧠 Strong foundation in Data Structures and Problem Solving<br>- 🚀 Passionate about creating impactful and efficient solutions<br>
 
 
 ## 🌐 Socials:
